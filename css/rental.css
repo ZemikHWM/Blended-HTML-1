@@ -1,0 +1,35 @@
+.rental .container {
+  margin-top: 150px;
+  display: flex;
+  gap: 50px;
+}
+
+.rental-img {
+  border-radius: 24px;
+}
+.rental-form {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.rental-title {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: #fbfbfb;
+}
+.rental-button {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  color: #fbfbfb;
+
+  background: #1b414b;
+
+  border-radius: 15px;
+  padding: 18px 75px;
+  width: 194px;
+  height: 56px;
+}

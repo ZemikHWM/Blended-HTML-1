@@ -1,0 +1,48 @@
+.entertainment .container {
+  display: flex;
+  gap: 32px;
+  margin-top: 150px;
+}
+.entertainment-block-text {
+  width: 716px;
+  border-radius: 24px;
+  background: #1b414b;
+  padding: 90px 50px;
+}
+.entertainment-title {
+}
+.entertainment-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+.entertainment-item {
+  display: flex;
+  gap: 18px;
+  flex-direction: column;
+  width: 292px;
+}
+.entertainment-item-h3 {
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -0.05em;
+  color: #fbfbfb;
+}
+.entertainment-item-hr {
+  border-radius: 18px;
+  width: 280px;
+  height: 2px;
+  background: rgba(251, 251, 251, 0.1);
+}
+.entertainment-item-p {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: #fbfbfb;
+  opacity: 0.8;
+}
+.entertainment-img {
+  border-radius: 24px;
+}
